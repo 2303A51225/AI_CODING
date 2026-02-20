@@ -1,0 +1,4 @@
+2026-01-30 12:05:13,427 - User: john_doe, IP Address: 192.168.1.1
+2026-01-30 12:05:13,427 - User: jane_smith, IP Address: 10.0.0.2
+User: alice, IP: 192.168.1.25, Time: 2026-01-30 12:10:00
+User: alice, IP: 192.168.1.25, Time: 2026-01-30 12:12:24
